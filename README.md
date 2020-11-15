@@ -8,9 +8,9 @@ This is a very basic daily planner that assumes the user is working off a normal
 
 ### Color Legend For Users: 
 
-Past hours (aka hours that have already occurred) = gray 
-Current hour (the current hour of the day) = red
-Future hours (hours of the day that are upcoming) = green
+-Past hours (aka hours that have already occurred) = gray 
+-Current hour (the current hour of the day) = red
+-Future hours (hours of the day that are upcoming) = green
 
 ### How to Clear saved inputs (instructions for Google Chrome users):
 1. Open the Google Chrome Console by pressing F12 key.
