@@ -1,7 +1,7 @@
 # Agenda_Web_App
 This is a web application that allows users to plan their schedule for a typical 9:00AM-5:00PM work day. 
 
-## Live Application Link:
+## Live Application Link: https://ysdra.github.io/Agenda_Web_App/
 
 ## App Description & User's Guide:
 This is a very basic daily planner that assumes the user is working off a normal 9:00AM-5:00PM schedule. This planner allows the user to enter and save any dynamic text within the localStorage of the browser for future site visits. It is highly recommended that the user utilizes Google Chrome as their browser when accessing this application. 
