@@ -7,6 +7,7 @@ This is a web application that allows users to plan their schedule for a typical
 This is a very basic daily planner that assumes the user is working off a normal 9:00AM-5:00PM schedule. This planner allows the user to enter and save any dynamic text within the localStorage of the browser for future site visits. It is highly recommended that the user utilizes Google Chrome as their browser when accessing this application. 
 
 ### Color Legend For Users: 
+
 Past hours (aka hours that have already occurred) = gray 
 Current hour (the current hour of the day) = red
 Future hours (hours of the day that are upcoming) = green
