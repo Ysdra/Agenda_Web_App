@@ -8,7 +8,7 @@ This is a very basic daily planner that assumes the user is working off a normal
 
 ### Color Legend For Users: 
 
-Past hours (aka hours that have already occurred) = gray
+Past hours (hours that have already occurred) = gray
 
 Current hour (the current hour of the day) = red
 
