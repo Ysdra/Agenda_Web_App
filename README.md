@@ -28,3 +28,9 @@ This web application employs moment.js as a separate library for the time keepin
 
 ## Screenshot of Live Web Application:
 ![image](https://github.com/Ysdra/Agenda_Web_App/blob/main/Work%20Day%20Scheduler%20Screenshot.PNG)
+
+## License 
+MIT © 
+
+## Contact Info
+Please reach out to Ysdra on Github for more information 
